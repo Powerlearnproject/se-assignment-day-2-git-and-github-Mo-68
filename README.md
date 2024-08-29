@@ -30,7 +30,7 @@ Click on commit changes.
 Create a new branch.
 Create a pull request.
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
-
+Forking involves copying an existing repository to disconnect from previous commiters. It occurs when the owner is dissatisfied with the work and decides to take a new branch. Forking creates a new repo, while cloning results in a local repository tracking the original one.
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-
+Issues are items you can create in a repository to plan, discuss and track work. Project boards help you organize and prioritize your work using the Scrum framework for project management.  
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
